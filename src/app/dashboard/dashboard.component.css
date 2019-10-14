@@ -1,0 +1,7 @@
+.mat-table {
+    background: #fff;
+    width: 100%;
+}
+::ng-deep .hide-arrow .mat-sort-header{
+    color: black
+}
